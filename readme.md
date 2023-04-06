@@ -31,6 +31,12 @@
 
 ![Блок схема](sxema.jpg)
 
+## Создание консольного приложения на C# ##
+
+dotnet new console
+dotnet new gitignore
+
+
 
 
 
